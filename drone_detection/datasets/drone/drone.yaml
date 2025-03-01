@@ -1,0 +1,7 @@
+train: E:\work\PythonProject\drone_detection\drone_detection\datasets\drone\dataSet\train.txt
+val: E:\work\PythonProject\drone_detection\drone_detection\datasets\drone\dataSet\valid.txt
+
+names:
+  0: drone
+
+nc: 1
